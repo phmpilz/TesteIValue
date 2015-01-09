@@ -1,0 +1,9 @@
+C:\Dropbox\Webnet\TesteIValue\TesteIValue\bin\Debug\TesteIValue.exe.config
+C:\Dropbox\Webnet\TesteIValue\TesteIValue\bin\Debug\TesteIValue.exe
+C:\Dropbox\Webnet\TesteIValue\TesteIValue\bin\Debug\TesteIValue.pdb
+C:\Dropbox\Webnet\TesteIValue\TesteIValue\obj\Debug\TesteIValue.csprojResolveAssemblyReference.cache
+C:\Dropbox\Webnet\TesteIValue\TesteIValue\obj\Debug\TesteIValue.Properties.Resources.resources
+C:\Dropbox\Webnet\TesteIValue\TesteIValue\obj\Debug\TesteIValue.csproj.GenerateResource.Cache
+C:\Dropbox\Webnet\TesteIValue\TesteIValue\obj\Debug\TesteIValue.exe
+C:\Dropbox\Webnet\TesteIValue\TesteIValue\obj\Debug\TesteIValue.pdb
+C:\Dropbox\Webnet\TesteIValue\TesteIValue\obj\Debug\TesteIValue.formVerbosPreposicoes.resources
